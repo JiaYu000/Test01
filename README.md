@@ -1,7 +1,7 @@
 # Test01
-This is a technical assessment.
+This is a random test.
 
-- This is a script developed to read public data sets from weblinks(compatible for source data updates for data analytics, as instructed by the     Technical Assessment 1 
+- This is a simple script developed to read public data sets from weblinks(compatible for source data updates for data analytics, as instructed by the     Technical Assessment 1 
 - The script runs on Matlab (Only tested with 2019b version).
 - It reads data links shown in the codes and automatically processes the data which then produces the graphs illustrating the analysis.
 - The public data sets used are "Research and Development Manpower Headcount by Sector" 
